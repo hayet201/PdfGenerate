@@ -1,0 +1,265 @@
+{
+    "status": true,
+    "message": "",
+    "data": {
+      "assets": { "banner": "https://www.cacic.fr/img/background-cacic.jpg" },
+      "layout": {
+        "footer": [
+          "www.cacic.fr | 15 rue des fleurs 75001 Paris",
+          "SAS au capital de 5000 \u20ac inscrite au RCS de Paris | SIRET : 594 002 183 000 13 | Code NAF : 8559A | D\u00e9claration d\u2019activit\u00e9 enregistr\u00e9e sous le num\u00e9ro 11756025375 aupr\u00e8s du pr\u00e9fet",
+          "de r\u00e9gion d\u2019Ile-de-France. | Cet enregistrement ne vaut pas agr\u00e9ment de l\u0027Etat \u00bb (article L. 6352-12 du code du travail)"
+        ]
+      },
+      "header": {
+        "items": [
+          { "type": "h1 ", "content": "Convention de formation professionnelle" },
+          { "type": "p", "content": "N\u00b0 20210903" },
+          { "type": "p", "content": "(Article L.6353-1 du code du travail" },
+          { "type": "p", "content": "(Article L.6353-1 du code du travail" }
+        ]
+      },
+      "body": {
+        "parts": [
+          {
+            "items": [
+              {
+                "type": "h3",
+                "content": "Entre les soussign\u00e9s, d\u2019une part employeur :"
+              },
+              { "type": "p", "content": "Entreprise : Lab R et D" },
+              { "type": "p", "content": "T\u00e9l\u00e9phone : 01 02 03 04 05" },
+              {
+                "type": "p",
+                "content": "Adresse : 40 rue la Tulipe 75001 Paris"
+              },
+              {
+                "type": "p",
+                "content": "Activit\u00e9 principale : Expertise et management de projets technologiques"
+              },
+              { "type": "p", "content": "Contact : Ana\u00efs ZAMOUN" },
+              {
+                "type": "p",
+                "content": "Qualit\u00e9 : Human Resources Assistant"
+              }
+            ]
+          },
+          {
+            "items": [
+              {
+                "type": "h3",
+                "content": "Organisme de formation, d\u2019autre part, cacic :"
+              },
+              { "type": "p", "content": "Caci : 15 rue des fleurs 75001 PARIS" },
+              {
+                "type": "p",
+                "content": "Num\u00e9ro de d\u00e9claration pr\u00e9alable : 11756025375"
+              },
+              {
+                "type": "p",
+                "content": "Repr\u00e9sentant : Mme Laurence FARINELLI"
+              },
+              { "type": "p", "content": "Qualit\u00e9 : Pr\u00e9sidente" }
+            ]
+          },
+          {
+            "items": [
+              { "type": "h2", "content": "ARTICLE 1 : OBJET DE LA CONVENTION" },
+              {
+                "type": "p",
+                "content": "La pr\u00e9sente convention a pour objet de fixer :"
+              },
+              {
+                "type": "ul",
+                "content": [
+                  [
+                    "les conditions dans lesquelles cacic dispensera les actions de formation du contrat de Professionnalisation,",
+                    "le prix total hors taxe et les conditions de financement de ces actions de formation."
+                  ]
+                ]
+              }
+            ]
+          },
+          {
+            "items": [
+              {
+                "type": "h2",
+                "content": "ARTICLE 2 : PR\u00c9SENTATION DE LA FORMATION"
+              },
+              {
+                "type": "p",
+                "content": "La formation professionnelle, faisant l\u0027objet de la pr\u00e9sente convention, sera suivie par Mme CAUMONT Oph\u00e9lie de l\u2019apprenant dans le cadre d\u0027un contrat de Professionnalisation d\u0027une dur\u00e9e d\u2019un jour pour pr\u00e9parer la formation \u00ab Adobe XD interm\u00e9diaire \u00bb."
+              },
+              {
+                "type": "p",
+                "content": "L\u2019action de formation d\u00e9buta le 08/09/2021 et prendra fin le 08/09/2021 \u00e0 17h. Le programme d\u00e9taill\u00e9 sera pr\u00e9sent\u00e9 en annexe. Les dates et horaires de formation sont indicatifs et susceptibles de modification, en fonction des \u00e9v\u00e8nements pouvant survenir au cours de la r\u00e9alisation de l\u0027action de formation."
+              },
+              {
+                "type": "p",
+                "content": "Le formateur qui assurera la formation est M.PLAIS Ludovic, formateur en graphisme et communication."
+              }
+            ]
+          },
+          {
+            "items": [
+              {
+                "type": "h2",
+                "content": "ARTICLE 3 : MODALIT\u00c9S DE SANCTION"
+              },
+              {
+                "type": "p",
+                "content": "Formation \u201c Adobe XD interm\u00e9diaire\u201d"
+              },
+              { "type": "p", "content": "Objectifs :" },
+              {
+                "type": "ul",
+                "content": [
+                  "R\u00e9viser les fonctionnalit\u00e9s du logiciel",
+                  "Connaitre et utiliser diff\u00e9rents plugins",
+                  "Utiliser des composants",
+                  "Cr\u00e9er des prototypes en incluant de l\u0027interactivit\u00e9"
+                ]
+              }
+            ]
+          },
+          {
+            "items": [
+              {
+                "type": "h2",
+                "content": "ARTICLE 4 : MODALIT\u00c9S DE D\u00c9ROULEMENT"
+              },
+              {
+                "type": "p",
+                "content": "\u00c0 distance, en t\u00e9l\u00e9pr\u00e9sentiel"
+              }
+            ]
+          },
+          {
+            "items": [
+              { "type": "h2", "content": "ARTICLE 5 : R\u00c8GLEMENT" },
+              {
+                "type": "p",
+                "content": "Durant les heures de cours, le salari\u00e9 en formation devra se conformer \u00e0 la discipline et au r\u00e8glement int\u00e9rieur de cacic. Le non suivi de ce r\u00e8glement pourra entra\u00eener le renvoi de l\u0027\u00e9tablissement. En particulier, l\u0027Employeur est inform\u00e9 de l\u0027assiduit\u00e9 du salari\u00e9 en formation. Les absences sont signal\u00e9es dans les meilleurs d\u00e9lais."
+              }
+            ]
+          },
+          {
+            "items": [
+              {
+                "type": "h2",
+                "content": "ARTICLE 6 : DISPOSITIONS FINANCI\u00c8RES"
+              },
+              {
+                "type": "p",
+                "content": "En contrepartie de cette action de formation, le Client s\u2019acquittera des couts suivants :"
+              },
+              {
+                "type": "p",
+                "content": [
+                  "Modalit\u00e9s de r\u00e8glement : Facturation mensuelle au prorata temporis",
+                  "Nombre de jours : 1",
+                  "Prix HT pour 1 jour : 450 Euros",
+                  "TVA : 0 % (organisme de formation exon\u00e9r\u00e9 de TVA)",
+                  "Prix TTC pour 1 jour : 450 Euros",
+                  "R\u00e8glement \u00e0 30 jours net."
+                ]
+              },
+              {
+                "type": "ul",
+                "content": [
+                  "Frais de d\u00e9placement et/ou de s\u00e9jour : sans objet",
+                  "Type de r\u00e8glement : Virement"
+                ]
+              }
+            ]
+          },
+          {
+            "items": [
+              {
+                "type": "h2",
+                "content": "ARTICLE 7 : ENGAGEMENT DE L\u2019EMPLOYEUR"
+              },
+              {
+                "type": "p",
+                "content": "L\u0027entreprise s\u0027engage \u00e0 lib\u00e9rer le salari\u00e9 en contrat de professionnalisation les jours pr\u00e9vus pour sa formation, afin qu\u0027il puisse recevoir un enseignement continu et m\u00e9thodique. Ainsi, !\u0027Employeur g\u00e9rera les cong\u00e9s pay\u00e9s du jeune en fonction du planning de formation."
+              }
+            ]
+          },
+          {
+            "items": [
+              { "type": "h2", "content": "ARTICLE 8 : CAS PARTICULIERS" },
+              {
+                "type": "p",
+                "content": [
+                  "En cas de refus de l\u2019OPCO :",
+                  "le contrat de professionnalisation est alors annul\u00e9. L\u0027entreprise doit informer (sous huitaine) l\u0027\u00e9cole du refus de prise en charge de l\u0027OPCO ou de la DOTE afin que le centre de formation puisse d\u00e9cider de ne pas facturer l\u0027entreprise.",
+                  "\u00c0 d\u00e9faut, le centre de formation facturera \u00e0 l\u0027entreprise le co\u00fbt de la formation, au prorata de la dur\u00e9e de la formation d\u00e9j\u00e0 suivie."
+                ]
+              },
+              {
+                "type": "p",
+                "content": [
+                  "En cas de prise en charge partielle de la formation par l\u2019OPCO :",
+                  "le contrat de professionnalisation est alors annul\u00e9. L\u0027entreprise doit informer (sous huitaine) l\u0027\u00e9cole du refus de prise en charge de l\u0027OPCO ou de la DOTE afin que le centre de formation puisse d\u00e9cider de ne pas facturer l\u0027entreprise.",
+                  "L\u0027employeur s\u0027engage \u00e0 s\u0027acquitter du montant de la diff\u00e9rence correspondant au co\u00fbt de la non prise en charge par l\u0027OPCO. cacic facturera l\u0027entreprise dans les 15 jours suivant la r\u00e9ception de la prise en charge partielle."
+                ]
+              }
+            ]
+          },
+          {
+            "items": [
+              {
+                "type": "h2",
+                "content": "ARTICLE 9 : EN CAS DE DIFF\u00c9RENDS"
+              },
+              {
+                "type": "p",
+                "content": "Il peut \u00eatre mis fin judiciairement \u00e0 cette convention aupr\u00e8s du tribunal dont d\u00e9pend le centre de formation, \u00e0 la demande de l\u0027une des parties lorsque celle-ci constate, de la part de l\u0027autre partie, un manquement aux obligations inscrites dans le pr\u00e9sent texte."
+              },
+              {
+                "type": "p",
+                "content": "Auparavant, les parties tenteront de r\u00e9gler entre elles leur diff\u00e9rend \u00e0 l\u0027amiable ou demanderont l\u0027arbitrage de l\u0027inspecteur du travail."
+              },
+              {
+                "type": "p",
+                "content": [
+                  "En cas de rupture du contrat de travail, qui entra\u00eene obligatoirement la fin de la formation, l\u0027entreprise s\u0027engage \u00e0 pr\u00e9venir l\u0027\u00e9cole, l\u0027OPCO et la DOTE par lettre recommand\u00e9e avec AR, sous huitaine, en notifiant la raison de la rupture. Le montant des frais de formation sera calcul\u00e9 au prorata temporis jusqu\u0027\u00e0 la fin du mois de r\u00e9siliation.",
+                  "En cas de rupture de la convention de formation pour changement de centre, l\u0027entreprise s\u0027engage \u00e0 r\u00e9gler la formation pour l\u0027ann\u00e9e en cours.",
+                  "Dans tous les cas de rupture, le candidat ne pourra se pr\u00e9senter devant le jury d\u0027examen final, ni pr\u00e9tendre au dipl\u00f4me."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "footer": {
+        "items": [
+          {
+            "type": "p",
+            "content": "Fait en double exemplaire, \u00e0 PARIS, le 03/09/2021"
+          }
+        ],
+        "signatories": [
+          {
+            "items": [
+              { "type": "p", "content": ["Employeur", "(LAB R et D)"] },
+              { "type": "p", "content": "Signature et cachet" }
+            ]
+          },
+          {
+            "items": [
+              {
+                "type": "p",
+                "content": ["Pour cacic", "(FARINELLI Laurence, Pr\u00e9sidente)"]
+              },
+              { "type": "p", "content": "Signature et cachet" },
+              {
+                "type": "img",
+                "content": "https://www.cacic.fr/img/logo-cacic-bleu.png"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+  
